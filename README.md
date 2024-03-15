@@ -23,6 +23,10 @@ Frontend Learnings
     SCSS
     Tailwind
 
+Reverse Proxy
+    Caddy Server
+    Ngnix
+
 Distribute Learnings
 
 4 March - 10 March PostgreSql and NestJS
