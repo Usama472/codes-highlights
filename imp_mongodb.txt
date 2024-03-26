@@ -1,0 +1,7 @@
+#MongoDb Imp Commands
+
+1. For restoring from specific collection => mongorestore --uri="your_mongodb_atlas_connection_uri" --nsInclude="your_database_name.your_collection_name" path_to_your_collection_dump.bson
+2. For Restoring Whole => mongorestore --url="connection string" --dir="./path"
+
+#DUMP
+1. mongodump --uri="connection string" --out "./"
