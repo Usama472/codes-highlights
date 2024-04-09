@@ -30,3 +30,6 @@ Reverse Proxy
 Distribute Learnings
 
 4 March - 10 March PostgreSql and NestJS
+
+
+nvm unalis default
